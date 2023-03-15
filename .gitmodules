@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "descstat"]
+	path = descstat
+	url = https://github.com/ycroissant/descstat
+	shallow = true
+	registered = true
+[submodule "dfidx"]
+	path = dfidx
+	url = https://github.com/ycroissant/dfidx
+	shallow = true
+	registered = true
+[submodule "mhurdle"]
+	path = mhurdle
+	url = https://github.com/ycroissant/mhurdle
+	shallow = true
+	registered = true
+[submodule "pglm"]
+	path = pglm
+	url = https://github.com/ycroissant/pglm
+	shallow = true
+	registered = true
 [submodule "plm"]
 	path = plm
 	url = https://github.com/ycroissant/plm

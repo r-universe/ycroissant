@@ -1,5 +1,21 @@
 [
   {
+    "package": "descstat",
+    "oncran": true
+  },
+  {
+    "package": "dfidx",
+    "oncran": true
+  },
+  {
+    "package": "mhurdle",
+    "oncran": true
+  },
+  {
+    "package": "pglm",
+    "oncran": true
+  },
+  {
     "package": "plm",
     "oncran": true
   }
