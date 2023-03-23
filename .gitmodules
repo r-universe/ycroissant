@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cmtest"]
+	path = cmtest
+	url = https://github.com/cran/cmtest
+	shallow = true
+	registered = true
 [submodule "descstat"]
 	path = descstat
 	url = https://github.com/ycroissant/descstat
@@ -16,6 +21,11 @@
 [submodule "mhurdle"]
 	path = mhurdle
 	url = https://github.com/ycroissant/mhurdle
+	shallow = true
+	registered = true
+[submodule "pder"]
+	path = pder
+	url = https://github.com/cran/pder
 	shallow = true
 	registered = true
 [submodule "pglm"]
