@@ -14,6 +14,9 @@
 [submodule "mhurdle"]
 	path = mhurdle
 	url = https://github.com/ycroissant/mhurdle
+[submodule "micsr"]
+	path = micsr
+	url = https://github.com/ycroissant/micsr
 [submodule "pder"]
 	path = pder
 	url = https://github.com/cran/pder
