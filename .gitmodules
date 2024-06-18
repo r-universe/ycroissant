@@ -11,6 +11,9 @@
 [submodule "dfidx"]
 	path = dfidx
 	url = https://github.com/ycroissant/dfidx
+[submodule "mhurdle"]
+	path = mhurdle
+	url = https://github.com/ycroissant/mhurdle
 [submodule "micsr"]
 	path = micsr
 	url = https://github.com/ycroissant/micsr
