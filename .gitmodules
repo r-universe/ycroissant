@@ -17,6 +17,9 @@
 [submodule "micsr"]
 	path = micsr
 	url = https://github.com/ycroissant/micsr
+[submodule "necountries"]
+	path = necountries
+	url = https://github.com/ycroissant/necountries
 [submodule "pder"]
 	path = pder
 	url = https://github.com/cran/pder
