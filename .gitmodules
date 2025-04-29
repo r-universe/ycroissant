@@ -17,6 +17,9 @@
 [submodule "micsr"]
 	path = micsr
 	url = https://github.com/ycroissant/micsr
+[submodule "mlogit"]
+	path = mlogit
+	url = https://github.com/ycroissant/mlogit
 [submodule "necountries"]
 	path = necountries
 	url = https://github.com/ycroissant/necountries
