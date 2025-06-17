@@ -32,3 +32,6 @@
 [submodule "plm"]
 	path = plm
 	url = https://github.com/ycroissant/plm
+[submodule "tidydfidx"]
+	path = tidydfidx
+	url = https://github.com/ycroissant/tidydfidx
